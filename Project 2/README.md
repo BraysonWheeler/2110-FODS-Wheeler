@@ -1,7 +1,7 @@
 # Project2
 Group 37 section 2110.286
 
-By Andres Orozco, Isabel Chavez, Logan Wheeler, and Katie Clarke
+By Logan Wheeler, Isabel Chavez, Andres Orozco, and Katie Clarke
 
 TO COMPILE: make
 TO RUN:     ./project2; accepts a file name as user input upon running
