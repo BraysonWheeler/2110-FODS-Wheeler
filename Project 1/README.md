@@ -1,7 +1,7 @@
 # Project1
 Group 37 section 2110.286
 
-By Andres Orozco, Isabel Chavez, Logan Wheeler, and Katie Clarke
+By Logan Wheeler, Isabel Chavez, Andres Orozco, and Katie Clarke
 
 TO COMPILE: g++ *.cpp
 TO EXECUTE: ./a.out; the first prompt upon running the program 
